@@ -1,0 +1,215 @@
+{
+  "schema_version": "0.1.0",
+  "status": "draft",
+  "project": "4i7_Osi",
+  "proposed_name": "Оракул",
+  "name_status": "under_discussion",
+  "scope": "documentation_only",
+  "parent_framework": "4i7",
+  "parent_relationship": "application_not_replacement",
+  "pillars": [
+    {
+      "id": "P1",
+      "working_title": "Идея",
+      "title_status": "working",
+      "application_question": "Какую задачу и для кого решает система?",
+      "question_status": "proposal",
+      "sides": [
+        {
+          "id": "P1.front",
+          "status": "unassigned",
+          "meaning": null
+        },
+        {
+          "id": "P1.right",
+          "status": "unassigned",
+          "meaning": null
+        },
+        {
+          "id": "P1.back",
+          "status": "unassigned",
+          "meaning": null
+        },
+        {
+          "id": "P1.left",
+          "status": "unassigned",
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "id": "P2",
+      "working_title": "Скелет связей",
+      "title_status": "working",
+      "application_question": "Какие компоненты и зависимости нужны?",
+      "question_status": "proposal",
+      "sides": [
+        {
+          "id": "P2.front",
+          "status": "unassigned",
+          "meaning": null
+        },
+        {
+          "id": "P2.right",
+          "status": "unassigned",
+          "meaning": null
+        },
+        {
+          "id": "P2.back",
+          "status": "unassigned",
+          "meaning": null
+        },
+        {
+          "id": "P2.left",
+          "status": "unassigned",
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "id": "P3",
+      "working_title": "Голос",
+      "title_status": "working",
+      "application_question": "Как система объясняет намерения и результаты?",
+      "question_status": "proposal",
+      "sides": [
+        {
+          "id": "P3.front",
+          "status": "unassigned",
+          "meaning": null
+        },
+        {
+          "id": "P3.right",
+          "status": "unassigned",
+          "meaning": null
+        },
+        {
+          "id": "P3.back",
+          "status": "unassigned",
+          "meaning": null
+        },
+        {
+          "id": "P3.left",
+          "status": "unassigned",
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "id": "P4",
+      "working_title": "Баланс",
+      "title_status": "working",
+      "application_question": "Как соразмерять пользу, ресурсы и риски?",
+      "question_status": "proposal",
+      "sides": [
+        {
+          "id": "P4.front",
+          "status": "unassigned",
+          "meaning": null
+        },
+        {
+          "id": "P4.right",
+          "status": "unassigned",
+          "meaning": null
+        },
+        {
+          "id": "P4.back",
+          "status": "unassigned",
+          "meaning": null
+        },
+        {
+          "id": "P4.left",
+          "status": "unassigned",
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "id": "P5",
+      "working_title": "Действие",
+      "title_status": "working",
+      "application_question": "Что можно исполнить и как отменить последствия?",
+      "question_status": "proposal",
+      "sides": [
+        {
+          "id": "P5.front",
+          "status": "unassigned",
+          "meaning": null
+        },
+        {
+          "id": "P5.right",
+          "status": "unassigned",
+          "meaning": null
+        },
+        {
+          "id": "P5.back",
+          "status": "unassigned",
+          "meaning": null
+        },
+        {
+          "id": "P5.left",
+          "status": "unassigned",
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "id": "P6",
+      "working_title": "Проверка",
+      "title_status": "working",
+      "application_question": "Как отличить подтверждённый результат от предположения?",
+      "question_status": "proposal",
+      "sides": [
+        {
+          "id": "P6.front",
+          "status": "unassigned",
+          "meaning": null
+        },
+        {
+          "id": "P6.right",
+          "status": "unassigned",
+          "meaning": null
+        },
+        {
+          "id": "P6.back",
+          "status": "unassigned",
+          "meaning": null
+        },
+        {
+          "id": "P6.left",
+          "status": "unassigned",
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "id": "P7",
+      "working_title": "Итог и память",
+      "title_status": "working",
+      "application_question": "Что сохранить, пересмотреть и передать следующему шагу?",
+      "question_status": "proposal",
+      "sides": [
+        {
+          "id": "P7.front",
+          "status": "unassigned",
+          "meaning": null
+        },
+        {
+          "id": "P7.right",
+          "status": "unassigned",
+          "meaning": null
+        },
+        {
+          "id": "P7.back",
+          "status": "unassigned",
+          "meaning": null
+        },
+        {
+          "id": "P7.left",
+          "status": "unassigned",
+          "meaning": null
+        }
+      ]
+    }
+  ]
+}
